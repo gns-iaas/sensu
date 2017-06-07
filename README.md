@@ -1,7 +1,9 @@
 # Tags
-- 0.29.0, 0.29, latest ([Dockerfile](https://github.com/gns-iaas/sensu/blob/master/Dockerfile))
-- 0.29.0-server, 0.29-server, server ([server/Dockerfile](https://github.com/gns-iaas/sensu/blob/master/server/Dockerfile))
-- 0.29.0-api, 0.29-api, api ([api/Dockerfile](https://github.com/gns-iaas/sensu/blob/master/api/Dockerfile))
+
+- 0.29.0-1, 0.29, latest ([Dockerfile](https://github.com/gns-iaas/sensu/blob/master/Dockerfile))
+- 0.29.0-1-server, 0.29-server, server ([server/Dockerfile](https://github.com/gns-iaas/sensu/blob/master/server/Dockerfile))
+- 0.29.0-1-api, 0.29-api, api ([api/Dockerfile](https://github.com/gns-iaas/sensu/blob/master/api/Dockerfile))
+
 
 # What is Sensu ?
 
